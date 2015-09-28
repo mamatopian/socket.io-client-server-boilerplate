@@ -1,0 +1,23 @@
+{
+  "name": "socket.io-client-server-boilerplate",
+  "version": "1.0.0",
+  "description": "Server and Client implementation in socket.io, used for request redirection and chain processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirmamaghani/socket.io-client-server-boilerplate.git"
+  },
+  "author": "Amir Mamaghani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirmamaghani/socket.io-client-server-boilerplate/issues"
+  },
+  "homepage": "https://github.com/amirmamaghani/socket.io-client-server-boilerplate#readme",
+  "dependencies": {
+    "socket.io": "^1.3.7",
+    "socket.io-client": "^1.3.7"
+  }
+}
